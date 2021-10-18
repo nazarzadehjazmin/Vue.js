@@ -1,0 +1,18 @@
+npm install -g @vue/cli
+
+vue --version
+
+vue create learning-vue
+
+cd learning-vue
+
+npm run serve
+
+
+Local
+http://localhost:8080/
+
+Network
+http://192.168.0.10:8080/
+
+npm run build
